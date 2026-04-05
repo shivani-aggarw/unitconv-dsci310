@@ -2,7 +2,7 @@
 A test module that tests the temp_conv module.
 """
 
-from unitconv.temp_conv import fahrenheit_celsius_conv
+from unitconv-dsci310.temp_conv import fahrenheit_celsius_conv
 
 def test_fahrenheit_celsius_conv():
     """
