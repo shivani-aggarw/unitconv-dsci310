@@ -20,7 +20,7 @@ $ pip install unitconv-dsci310
 To convert a temperature from Fahrenheit to Celsius:
 
 ```{python}
-from unitconv-dsci310 import fahrenheit_celsius_conv
+from unitconv import fahrenheit_celsius_conv
 
 # Convert 32°F to Celsius
 fahrenheit_celsius_conv(32, unit="F")  # returns 0.0
