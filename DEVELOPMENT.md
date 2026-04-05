@@ -13,7 +13,7 @@ This file is written using a `.toml` format. [You can learn more about toml here
 We are using Hatch as the default packaging tool.
 Hatch allows you to configure and run environments and scripts similar to workflow tools like tox or nox. 
 
-Hach, by default, uses virtual environments (venv) to manage environments. But you can configure it to use other environment tools.[ Read the hatch documentation to learn more about environments. ](https://hatch.pypa.io/1.13/tutorials/environment/basic-usage/)
+Hatch, by default, uses virtual environments (venv) to manage environments. But you can configure it to use other environment tools.[ Read the hatch documentation to learn more about environments. ](https://hatch.pypa.io/1.13/tutorials/environment/basic-usage/)
 
 For this template, we have set up Hatch environments for you to use. At the bottom of your pyproject.toml file, notice a [hatch environment](https://hatch.pypa.io/1.13/environment/) section that looks like this: 
 
